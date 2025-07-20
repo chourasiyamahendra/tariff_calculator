@@ -9,7 +9,7 @@ st.set_page_config(page_title="Electricity Cost to Consumer", page_icon="⚡")
 
 # Paths
 logo_path = "logo.png"  # Make sure logo.png is in the same directory
-db_file = "M:/Python/database.xlsx"  # Adjust path if needed
+db_file = "database.xlsx"  # Adjust path if needed
 
 # Header: Logo and Date
 header_col1, header_col2 = st.columns([6, 1])
